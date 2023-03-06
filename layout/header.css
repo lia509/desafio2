@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: ;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: ;
+    margin-top: 10px;
+    margin: 0;
+    padding: 0;
+}

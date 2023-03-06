@@ -53,18 +53,19 @@ a:hover {
     height: 175px   ;
     padding: 0 5%;
 }
-
+/*Edição geral da Logo*/
 img {
     height: 64px;
     width: 64px;
     padding: 10px
 }
 
+/*Animação da logo*/
 img:hover {
     width: 64px;
     animation: rotation 2s infinite linear;
 }
-
+/*Animação da logo*/
 @keyframes rotation {
     from {
         transform: rotate(0deg);

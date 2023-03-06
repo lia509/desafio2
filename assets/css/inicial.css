@@ -8,4 +8,9 @@ height: 100%;
 
 #depsec1{ display: flex;} /*Section 1 do Depoimento*/
 
-#depart1{ display: flex;} /*Article 1 do Depiomento*/
+#depart1{ display: flex;
+background-color: wheat;
+box-shadow:black;
+margin: 1%;} /*Article 1 do Depiomento*/
+
+#dediv{ background-color: aqua;} /*DEPOIMENTO DIV*/

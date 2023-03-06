@@ -18,4 +18,8 @@ border-left: 5px #599a8c;
 }
 #promoespecial{
     display: flex;
+    justify-content: space-between;
+}
+#textopromo{
+    padding-left: 100px;
 }

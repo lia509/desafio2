@@ -1,4 +1,4 @@
-/*estilização da section*/
+/*Estilização da section*/
 #pa6 {
     display: flex;
     flex-direction: column;
@@ -6,7 +6,7 @@
     width: 50%;
     margin-bottom: 10px;
 }
-/*estilização do button*/
+/*Estilização do button*/
 #pa4 {
     border: blanchedalmond;
     height: 50px;
@@ -15,19 +15,19 @@
     margin-bottom: 10px;
 
 }
-/*estilização do form*/
+/*Estilização do form*/
 .form {
     display: flex;
     flex-direction: column;
 }
-/* estilização do input email*/
+/*Estilização do input email*/
 #pa2 {
     border-color: black;
     margin-bottom: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
 }
-/* estilização do input text*/
+/*Estilização do input text*/
 #pa1 {
     border-color: black;
     outline: 0;
@@ -35,7 +35,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
-/* estilização do input message*/
+/*Estilização do input message*/
 #pa3 {
     border-radius: 0;
     margin-bottom: 20px;
@@ -43,13 +43,13 @@
     padding-bottom: 10px;
 
 }
-/* estilização do body*/
+/*Estilização do body*/
 body {
     margin: 0;
     padding: 0;
     background-color:#f6ebd5;
 }
-/* estilização da section*/
+/*Estilização da section*/
 #pa6 {
     display: flex;
     flex-direction: column;
@@ -57,11 +57,11 @@ body {
     width: 50%;
     margin-bottom: 10px;
 }
-/* colocação do houver*/
+/*Colocação do houver*/
 #pa4:hover {
     background-color:#d85453;
 }
-/*estilização do p para alinhamento*/
+/*Estilização do p para alinhamento*/
 p {
     text-align: center;
 }

@@ -1,25 +1,41 @@
 <!DOCTYPE html>
+
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Sucsses</title>
     <link rel="stylesheet" href="../assets/css/sucsses.css">
 </head>
+
 <body>
-    <div>
-        <section class="sussection">
-            <article class="susarticle1">
-                <img src="../assets/image/Sucess.png" alt="" id="imgsucess">
-                <p>Foi enviado com sucesso</p>
+    <iframe src="../layout/header.html" frameborder="0" width="100%"></iframe>
+    <!--div para organizar-->
+    <div class="geral">
+        <!--article para para facilitar na vizualização dos codigos -->
+        <section>
+            <!--imagen do certinho-->
+            <img src="../assets/image/Sucess.png" alt="imagem de sucesso">
+            <!-- paragrafo para escrever -->
+            <p>Foi enviado com sucesso</p>
+            <!--fechamento de tag-->
             </article>
+            <!--fechamento de tag-->
             <article>
-                <form action="../pages/inicial.html" target="_parent">
-                    <label for="submit"></label>
-                    <input type="submit" value="Voltar para pagina inicial">
-                    
+                <!--formulario do label e do input-->
+                <form action="../index.html" target="_parent">
+                    <!--label submit-->
+                    <label for="submit" id="button"></label>
+                    <!--input para voltar para tela inicial-->
+                    <input type="submit" value="Voltar para pagina inicial" id="button">
+                    <!--fechamento de tag-->
                 </form>
+                <!--fechamento de tag-->
             </article>
+            <!--fechamento de tag-->
         </section>
+        <!--fechamento de tag-->
     </div>
-    
+    <!--fechamento de tag-->
+    <iframe src="../layout/footer.html" frameborder="0" width="100%"></iframe>
 </body>
+
 </html>

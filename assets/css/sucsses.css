@@ -1,9 +1,21 @@
-.sussection{ margin-left: 50%;
-    display: flex;
-    flex-direction: column;} /* section que agrega a imagem sucess, texto "Foi enviado com sucesso" e button voltar para inicial*/
-    
-    .susarticle1{display: flex;
-    flex-direction: column;} /* article com img e p */
-    
-    #imgsucess{ height: 64px;
-    width: 64px;}
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(246,235,213);
+}
+
+div {
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+/*imagen sucess*/
+#img1 {
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+#button{ background-color: green;}

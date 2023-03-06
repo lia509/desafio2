@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f6ebd5;
+}
+
+#título{
+    text-align: center;
+}
+/*Promoção Especial*/
+#art1{
+background-color: #abccb9;
+margin: 50px;
+padding: 50px;
+border-radius: 5px;
+box-shadow: 5px 5px 15px gray;
+border-left: 5px #599a8c;
+}
+#promoespecial{
+    display: flex;
+    justify-content: space-between;
+}
+#textopromo{
+    padding-left: 100px;
+    font-size: 25px;
+}
+#títulopromo{
+    display: flex;
+    flex-direction: column;
+}

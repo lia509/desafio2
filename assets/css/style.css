@@ -26,3 +26,7 @@ border-left: 5px #599a8c;
     padding-left: 100px;
     font-size: 25px;
 }
+iframe {
+    margin: 0;
+    padding: 0;
+}

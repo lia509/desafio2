@@ -1,6 +1,4 @@
 #pa6{
-    display: flex;
-    flex-direction: column;
     margin: auto;
     width: 50%;
     margin-bottom: 10px;
@@ -11,3 +9,5 @@
     height: 50px;
     background-color: yellow;
 }
+.form{display: flex;
+flex-direction: column;}

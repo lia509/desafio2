@@ -12,6 +12,7 @@ body{
     border-radius: 5px;
     margin: 25px;
     padding: 25px;
-    box-shadow: 5px 5px 15px ;
+    box-shadow: 5px 5px 15px rgb(218,145,117);
+    background-color: rgb(246,235,213);
 }
 

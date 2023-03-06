@@ -1,0 +1,94 @@
+/*Estilização geral do Feedback*/
+body {
+    margin: 0;
+    padding: 0;
+}
+/*Estilização do título*/
+
+h1 {
+    text-align: center;
+}
+
+/*Estilização da section*/
+#pa6 {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+/*Estilização do button*/
+#pa4 {
+    border: blanchedalmond;
+    height: 50px;
+    background-color: #d85453;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+/*Estilização do form*/
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+/*Estilização do input email*/
+#pa2 {
+    border-color: black;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+/*Estilização do input text*/
+#pa1 {
+    border-color: black;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+/*Estilização do input message*/
+#pa3 {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+/*Estilização do body*/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f6ebd5;
+}
+
+/*Estilização da section*/
+#pa6 {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+/*Colocação do houver*/
+#pa4:hover {
+    background-color: #5a9a8c;
+    box-shadow: 0 0 50px black;
+}
+
+/*Estilização do p para alinhamento*/
+p {
+    text-align: center;
+}
+
+input:hover {
+    box-shadow: 0 0 50px black;
+}

@@ -16,15 +16,13 @@ border-radius: 5px;
 box-shadow: 5px 5px 15px gray;
 border-left: 5px #599a8c;
 }
+/*div da promoção especial para colocar o texto ao lado da imagem*/
 #promoespecial{
     display: flex;
     justify-content: space-between;
 }
+/*edição do texto da produção*/
 #textopromo{
     padding-left: 100px;
     font-size: 25px;
-}
-#títulopromo{
-    display: flex;
-    flex-direction: column;
 }

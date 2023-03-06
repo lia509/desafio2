@@ -44,3 +44,8 @@ a:hover {
     background-color: rgba(225, 225, 225, 0.489);
     border: 10px;
 }
+
+.header {
+    height: 150px;
+    padding: 0 5%;
+}

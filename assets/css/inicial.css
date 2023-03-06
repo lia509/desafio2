@@ -1,10 +1,10 @@
 #dep1{ font-size: 200%;
 text-align: center;}/*DEPOIMENTO EM PARAGRAFO 1*/
 
-#deimg{border-radius: 150%;
+#deimg{border-radius: 50%;
 width: 50%;
-height: 100%;
-}/*IMAGENS DO DEPOIMENTO*/
+height: 50%;
+margin: 5%;}/*IMAGENS DO DEPOIMENTO*/
 
 #depsec1{ display: flex;} /*Section 1 do Depoimento*/
 

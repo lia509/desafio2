@@ -36,7 +36,7 @@ li {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 25px;
 }
@@ -49,13 +49,14 @@ a:hover {
 }
 
 .header {
-    height: 150px;
+    height: 175px   ;
     padding: 0 5%;
 }
 
 img {
     height: 64px;
-    width: 64px
+    width: 64px;
+    padding: 10px
 }
 
 img:hover {

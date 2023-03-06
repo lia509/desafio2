@@ -19,7 +19,7 @@
 /*Article 1 do Depiomento*/
 #depart1 {
     background-color: wheat;
-    box-shadow: 5px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px grey;
     margin: 1%;
 }
 /*Article 1 do Depiomento*/
@@ -30,7 +30,7 @@
 
 /*DEPOIMENTO DIV*/
 #dediv {
-    background-color: aqua;
+    background-color: #abccb9;;
 }
 
 /*Nome dos depoimentores*/
@@ -42,3 +42,7 @@
 
 /* nome dos depoimentos*/
 .namesdepoimento{ text-align: center;}
+
+#depart1:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,21 @@
+/*Edição geral do Footer*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*Edição detalhada do Footer*/
+#footer1 {
+    background-color: rgb(216, 84, 83);
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+    margin: 0;
+    bottom: 0;
+    left: 0;
+}

@@ -24,6 +24,7 @@ li {
     font-family: 'Courier New', Courier, monospace;
     justify-content: space-between;
     display: inline-flex;
+    margin-top: 20px;
 }
 
 .conteiner {
@@ -36,13 +37,14 @@ li {
 a {
     color: black;
     text-decoration: none;
-    padding: 20px;
+    padding: 25px;
 }
 
 a:hover {
     color: black;
     background-color: rgba(225, 225, 225, 0.489);
     border-radius: 10px;
+    transition: 2s;
 }
 
 .header {
@@ -51,12 +53,12 @@ a:hover {
 }
 
 img {
-    height: 100px;
-    width: 100px;
+    height: 64px;
+    width: 64px
 }
 
 img:hover {
-    width: 100px;
+    width: 6px;
     animation: rotation 2s infinite linear;
   }
 

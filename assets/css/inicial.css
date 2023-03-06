@@ -1,16 +1,41 @@
-#dep1{ font-size: 200%;
-text-align: center;}/*DEPOIMENTO EM PARAGRAFO 1*/
+/*DEPOIMENTO EM PARAGRAFO 1*/
+#dep1 {
+    font-size: 200%;
+    text-align: center;
+}
 
-#deimg{border-radius: 50%;
-width: 50%;
-height: 50%;
-margin: 5%;}/*IMAGENS DO DEPOIMENTO*/
+/*IMAGENS DO DEPOIMENTO*/
+#deimg {
+    border-radius: 50%;
+    width: 128px;
+    margin: 5%;
+}
 
-#depsec1{ display: flex;} /*Section 1 do Depoimento*/
+/*Article 1 do Depoimento*/
+#depsec1 {
+    display: flex;
+}
 
-#depart1{ display: flex;
-background-color: wheat;
-box-shadow: 5px 5px 5px 5px black;
-margin: 1%;} /*Article 1 do Depiomento*/
+/*Article 1 do Depiomento*/
+#depart1 {
+    background-color: wheat;
+    box-shadow: 5px 5px 5px 5px black;
+    margin: 1%;
+}
+/*Article 1 do Depiomento*/
+.img_text {
+    display: flex;
+    margin: 1%;
+}
 
-#dediv{ background-color: aqua;} /*DEPOIMENTO DIV*/
+/*DEPOIMENTO DIV*/
+#dediv {
+    background-color: aqua;
+}
+
+/*Nome dos depoimentores*/
+#pnone {
+    text-align: center;
+    margin: 5%;
+    margin-top: 20%;
+}

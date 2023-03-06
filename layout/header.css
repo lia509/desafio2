@@ -18,3 +18,10 @@ body {
     margin: 0;
     padding: 0;
 }
+
+li {
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: space-between;
+    display: inline-flex;
+}

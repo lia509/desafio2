@@ -1,0 +1,48 @@
+/*DEPOIMENTO EM PARAGRAFO 1*/
+#dep1 {
+    font-size: 200%;
+    text-align: center;
+}
+
+/*IMAGENS DO DEPOIMENTO*/
+#deimg {
+    border-radius: 50%;
+    width: 128px;
+    margin: 5%;
+}
+
+/*Article 1 do Depoimento*/
+#depsec1 {
+    display: flex;
+}
+
+/*Article 1 do Depiomento*/
+#depart1 {
+    background-color: wheat;
+    box-shadow: 5px 5px 5px 5px grey;
+    margin: 1%;
+}
+/*Article 1 do Depiomento*/
+.img_text {
+    display: flex;
+    margin: 1%;
+}
+
+/*DEPOIMENTO DIV*/
+#dediv {
+    background-color: #abccb9;;
+}
+
+/*Nome dos depoimentores*/
+#pnone {
+    text-align: center;
+    margin: 5%;
+    margin-top: 20%;
+}
+
+/* nome dos depoimentos*/
+.namesdepoimento{ text-align: center;}
+
+#depart1:hover {
+    transform: scale(1.05);
+}

@@ -32,6 +32,6 @@ iframe {
 }
 
 #iframe1 {
-    position: fixed;
     bottom: 0;
+    margin-bottom: -3px;
 }

@@ -1,4 +1,28 @@
 body{
+    background-color:rgb(246,235,213);
+ }
+ 
+ #imgsmarina{
+     width:20%;
+     height: 20%;
+ }
+ 
+ .article4{
+     display: flex;
+     border-radius: 5px;
+     margin: 25px;
+     padding: 25px;
+     background-color: rgb(246,235,213);
+ }
+ 
+ .img_text1{ display: flex;}
+ 
+ .box{ box-shadow: 5px 5px 15px rgb(218,145,117);
+     border-top: 3px solid rgb(125,56,57);
+ margin: 10px;}
+ 
+ #titulosorvetes{
+ text-align: center;
     margin: 0;
     padding: 0;
     background-color: #f6ebd5;

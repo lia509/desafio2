@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 /*Estilização do título*/
 
 h1 {
@@ -92,7 +93,13 @@ p {
 input:hover {
     box-shadow: 0 0 50px black;
 }
+
 footer {
+    position: fixed;
+    bottom: 0;
+}
+
+#iframe1 {
     position: fixed;
     bottom: 0;
 }

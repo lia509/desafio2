@@ -2,5 +2,12 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f6ebd5;
-    
+}
+
+#título{
+    text-align: center;
+}
+/*Promoção Especial*/
+#art1{
+display: flex;
 }

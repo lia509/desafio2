@@ -43,3 +43,10 @@ body{
     padding:0;
     background-color:#d85453 ;
 }
+#pa6{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width:50%;
+    margin-bottom: 10px;
+}

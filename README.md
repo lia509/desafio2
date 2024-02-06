@@ -1,0 +1,1 @@
+Seguindo a mesma proposta do AlphaPizza, onde criamos um site para uum restaurante, criamos o Alpha IceCream. Com o objetivo de melhorar nosso desempenho. (Este site foi inspirado em outro em que eu Giulia criei para refazer o desafio em que não fomos bem sucedidos, de maneira individual.)
